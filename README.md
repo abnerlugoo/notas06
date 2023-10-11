@@ -1,1 +1,4 @@
-# aquí voy a vaciar unas notas equis de cursos scrum y de big data
+# repositorio dedicado a notas hechas en jupyter para el curso Scrum Avanzado de: 
+# https://www.linkedin.com/learning/scrum-avanzado
+
+# abnerlugo.
